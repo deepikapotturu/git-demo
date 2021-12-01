@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum below
+## Website contents
 
-dgjnzelkdgmfgmdlzedgnfkzdnklv`nsf eirhneknfwehriejknsdfei irhiesnfjhef`
+1. mypage.html
 
-dkgnioeaneinhiezknf
